@@ -1,0 +1,11 @@
+id_pagamento_servico,id_servico,id_cliente,forma_pagamento,nome_cliente,nome_servico
+1,1,1,Cartão Crédito,julia didra,Corte masculino
+2,2,3,Dinheiro,alessandra raissa,Corte feminino
+3,3,2,Cartão Débito,wilza minhaque,Coloração de cabelo
+4,2,4,Dinheiro,joao pedro,Corte feminino
+5,1,5,Cartão Crédito,giliandra costa,Corte masculino
+6,3,6,Pix,maria do carmo,Coloração de cabelo
+7,1,7,Pix,alexandro bezerra,Corte masculino
+8,2,8,Cartão Crédito,daniela diniz,Corte feminino
+9,3,9,Pix,kamille isabel,Coloração de cabelo
+10,1,10,Cartão Débito,bernardo braga,Corte masculino
